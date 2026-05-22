@@ -24,8 +24,8 @@ import ProductsPage from './pages/AllProducts'
 import AllShops from './pages/AllShops'
 import ShopDetailsPage from './pages/ShopProfilePage'
 import Footer from './components/Footer'
-import CartPage from './pages/cartPage'
-import ChatPage from './pages/chatPage'
+import CartPage from './pages/CartPage'
+import ChatPage from './pages/ChatPage'
 import ChatFab from './components/ChatButton'
 
 
