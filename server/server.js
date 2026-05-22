@@ -1,7 +1,7 @@
 import express from "express"
 import dotenv from "dotenv"
 import colors from "colors"
-import {connectDB} from "./config/dbconfig.js"
+import {connectDB} from "./config/dbConfig.js"
 dotenv.config()
 
 //local imports
